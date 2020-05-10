@@ -2,6 +2,5 @@ test1
 hello
 elaborate
 capable
-originally你好，我是冲突，不让你解决
 你好，我是冲突，不让你解决
 你好，我是冲突，就解决你，哈哈
